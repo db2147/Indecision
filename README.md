@@ -23,13 +23,14 @@ To get things moving, copy the file using Clone/download in github.&nbsp; In you
 
 ### Deployment
 
-To check if its working properly, you should see this image in your browser:  <br>
-<img src="public/images/capture.png" alt="Drawing" style="width: 200px;  float: left" />
+To check if its working properly, you should see this image in your browser:  
+<br>
+<br>
+<img src="public/images/capture.png" alt="Drawing" style="width: 100px;  float: left" />
 
 <br>
 <br>
-<br>
-<br>
+ 
 
 If your browser looks like this, congratulations the app is working properly!  
 
