@@ -1,0 +1,41 @@
+.big-button {
+    background: $purple;
+    border: none;
+    border-bottom: .6rem solid darken($purple, 10%); // pass in purple variable, and percent we want to darken, into the darken function
+    color: white; // set text color
+    font-weight: bold;
+    font-size: $l-size;
+    margin-bottom: $m-size;
+    padding: 2.4rem; // set padding of main button
+    width: 100%; // this will ensure the button takes up all the width of the container (60 rem)
+} 
+
+.big-button:disabled { // it appears faded out, but as we add items it returns to normal
+  opacity: .5;  
+}
+
+@media (min-width: $desktop-breakpoint) {
+    .big-button {
+        margin-bottom: $xl-size;
+    }
+}
+
+// Button
+.button {
+    background: $purple;
+    border: none;
+    border-bottom: .3rem solid darken($purple, 10%);
+    color: white;
+    font-weight: 500;
+    padding: $s-size;
+}
+
+// bem (block element modifier)
+.button--link {
+    background: none;
+    border: none;
+    color: $off-white;
+    padding: 0;
+
+}
+

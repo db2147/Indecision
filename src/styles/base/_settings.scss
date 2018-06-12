@@ -1,0 +1,18 @@
+// in settings we define several values that can be used and reused
+
+// when creating an scss variable, we need to start off with a dollar sign
+$off-black: #20222b;
+$dark-blue: #333745;
+$blue: #3c4251;
+$light-blue: #464b5e;
+$off-white: #a5afd7;
+$purple: #8357c5; // color variable we created for the big button
+
+
+// Spacing
+// m-size (creating a global size variable we can re-use)
+$s-size: 1.2rem;
+$m-size: 1.6rem;
+$l-size: 3.2rem;
+$xl-size: 4.8rem;
+$desktop-breakpoint: 45rem;

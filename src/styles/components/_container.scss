@@ -1,0 +1,9 @@
+// this file will allow us to center all the content on the screen
+.container {
+    max-width: 60rem; // gives us a max width so we can evenly distribute the extra space on left and right
+    margin: 0 auto;  // margin on top/bottom set to 0; Left/right set to 'auto'
+    padding: 0 $m-size;// using m-size variable to add padding to left and right
+}
+
+
+ 
