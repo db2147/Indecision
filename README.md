@@ -29,7 +29,6 @@ To check if its working properly, you should see this image in your browser:
 <img src="public/images/capture.png" alt="Drawing" style="width: 100px;  float: left" />
 
 <br>
-<br>
  
 
 If your browser looks like this, congratulations the app is working properly!  
