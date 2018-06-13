@@ -26,7 +26,7 @@ To get things moving, copy the file using Clone/download in github.&nbsp; In you
 To check if its working properly, you should see this image in your browser:  
 <br>
 <br>
-<img src="public/images/capture.png" alt="Drawing" style="max-width: 50%;  float: left" />
+<img src="public/images/capture.png=200x200" alt="Drawing"   />
 
 <br>
  
