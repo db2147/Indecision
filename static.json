@@ -1,6 +1,6 @@
 {
     "root": "indecision/",
     "routes": {
-        "/**": "public/index.html"
+        "/**": "index.html"
     }
 }
