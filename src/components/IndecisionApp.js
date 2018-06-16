@@ -24,7 +24,7 @@ export default class IndecisionApp extends React.Component {
     handlePick = () => { 
         const randomNum = Math.floor(Math.random() * this.state.options.length);
         const option = this.state.options[randomNum];
-        // use setState to set selectedOption equal to option; I overcomplicated it a bit; very similar to the options array
+        // use setState to set selectedOption equal to option; very similar to the options array
         this.setState(() => ({ selectedOption: option}))
     };
     handleAddOption = (option) => { 
